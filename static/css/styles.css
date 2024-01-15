@@ -8,7 +8,7 @@ section {
   padding-top: 30px;
 }
 
-h1.mb-3 {
+h2.mb-3 {
   text-align: center;
 }
 
@@ -70,7 +70,7 @@ h1.mb-3 {
 }
 
 li {
-  margin-top: 20px;
+  margin-top: 15px;
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 30px;
@@ -80,11 +80,11 @@ li {
 .code-link:link, .code-link:visited {
   background-color: white;
   color: black;
-  padding: 10px 20px;
+  padding: 8px 16px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 8px;
   font-family: 'Courier New', Courier, monospace;
 }
   
